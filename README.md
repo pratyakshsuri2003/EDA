@@ -16,7 +16,7 @@ Welcome to my Exploratory Data Analysis (EDA) repository! In this repository, yo
 4. [House Price Prediction Using Linear Regression](House_Price_Prediction.ipynb)
    - Building a linear regression model to predict house prices based on various features.
 
-5. [Customer Shopping Trends Analysis](Customer_Shopping_Trends_Analysis.ipynb)
+5. [Customer Shopping Trends Analysis](CUSTOMER_SHOPPING_TRENDS.ipynb)
    - Investigating customer shopping behaviors and preferences to improve marketing strategies.
 
 6. [Predictive Analysis on Titanic Dataset](Predictive_Analysis_on_Titanic_Data-Set.ipynb)
