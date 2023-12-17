@@ -24,6 +24,7 @@ Welcome to my Exploratory Data Analysis (EDA) repository! In this repository, yo
 
 7. [Neural Networks for Handwritten Digit Recognition](Neural_Network_for_Handwritten_Digit_Claasification.ipynb)
    - Building and training neural networks to recognize handwritten digits.
+8. [COVID 19 BASIC EXPLORATORY DATA ANALYSIS](COVID_19_BASIC_EXPLORATORY_DATA_ANALYSIS.ipynb)
 
 ## Getting Started
 
